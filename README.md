@@ -59,7 +59,7 @@ Font Awesome for social icons
 
 
 
-git clone https://github.com/roghaye84/ModernAuthUI.git
+git clone https://github.com/roghayem/ModernAuthUI.git
 
 2. Open index.html in any modern browser to view the login/signup form locally.
 
